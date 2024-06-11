@@ -1,13 +1,20 @@
-Olá! sou Pedro e este é meu portfólio. Aqui você encontrará uma coletânea de projetos que fiz por conta própria ou que participei durante minha jornada como desenvolvedor. Em cada um dos trabalhos eu tenho dedicado meu máximo e demonstrando minha paixão pela entrega de produtos e agregar valores.  
+<h3 align="center">A Information Systems student from PUC MINAS</h3>
+<img align="right" alt="Gif" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedro-resende-vevo&label=Profile%20views&color=0e75b6&style=flat"/> </p>
 
-Além de toda base front-end (HTML, CSS, JS) e alguns frameworks como: Bootstrap e React.js, tenho também conhecimento e prática em linguagens back-end, que são principalmente: C#, Python e Swift.  
+- 🔭 I’m currently working on **C# projects**
 
-Entretanto, estou constantemente buscando aprender novas tecnologias. No caso das que tive contato recentemente foram o: SQLite e a biblioteca Pandas do Python.  
+- 🌱 I’m currently learning **Frameworks and new tecnologies**
 
-Como entusiasta pela tecnologia, meu foco principal é conhecer e aplicar novos conhecimentos da área e assim afunilar minha especialização profissional. Para isso, busco sempre manter algum curso ou projeto em andamento para momentos oportunos, jamais me permitindo estagnar em uma mesma aplicação.
- 
-Estou sempre aberto a oportunidades de colaboração e projetos interessantes. Acredito que a colaboração e trabalho em equipe sejam a chave para valores virtuosos e que tragam felicidade no que se faz. 
+- 🤝 I’m looking help for **new projects**
 
-Por isso, sinta-se à vontade para explorar os projetos e entrar em contato comigo se tiver alguma dúvida, feedback ou oportunidade de trabalho. Estou animado para compartilhar meu trabalho com você e espero que encontre inspiração e valor nos projetos apresentados aqui.  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+ <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+ <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" width="40" height="40"/> </a>
+</p>
 
- Atenciosamente, Pedro Resende. 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-resende-vevo&show_icons=true&locale=en&layout=compact"/></p>
