@@ -3,7 +3,7 @@
 
 - 👨‍💻 I’m currently working on **C# projects**
 
-- 🌱 I’m currently learning **Frameworks & new technologies**
+- 🌱 I’m currently learning **frameworks & new technologies**
 
 - 🤝 I’m looking help for **new projects**
 
