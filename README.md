@@ -14,6 +14,7 @@
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" width="40" height="40"/> </a>
+ <a href="https://www.php.net/docs.php/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1184/1*JGkOiiDXtsuXgq4koo5uJw.png" width="40" height="40"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-resende-vevo&show_icons=true&locale=en&layout=compact"/></p>
