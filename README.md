@@ -1,5 +1,5 @@
 <img align="right" alt="Gif" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedro-resende-vevo&label=Profile%20views&color=0e75b6&style=flat"/> </p>
+<p align="left"> <img src="[https://komarev.com/ghpvc/?username=pedro-resende-vevo&label=Profile%20views&color=0e75b6&style=flat](https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952l38gqf4uy38xe2hqzxrbutc99brr4cnkew525prl&ep=v1_gifs_search&rid=giphy.gif&ct=g)"/> </p>
 
 - 👨‍💻 I’m currently working on **C# projects**
 
