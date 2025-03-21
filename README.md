@@ -15,6 +15,11 @@
  <a href="https://www.php.net/docs.php" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/php_icon_130857.png" width="40" height="40"/> </a>
  <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" width="40" height="40"/> </a>
+ <a href="https://www.swift.org/documentation/"> <img src="https://github.com/xandemon/developer-icons/blob/main/icons/swift.svg" alt="html5" width="40" height="40"/> </a> 
+ <a href="https://nodejs.org/docs/latest/api/"> <img src="https://github.com/xandemon/developer-icons/blob/main/icons/nodejs.svg" alt="html5" width="40" height="40"/> </a> 
+ <a href="https://docs.docker.com/"> <img src="https://github.com/xandemon/developer-icons/blob/main/icons/docker.svg" alt="html5" width="40" height="40"/> </a> 
+ <a href="https://docs.flutter.dev/"> <img src="https://github.com/xandemon/developer-icons/blob/main/icons/flutter.svg" alt="html5" width="40" height="40"/> </a> 
+ <a href="https://react.dev/reference/react"> <img src="https://github.com/xandemon/developer-icons/blob/main/icons/reactjs.svg" alt="html5" width="40" height="40"/> </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pedro-resende-vevo&show_icons=true&locale=en&layout=compact"/></p>
